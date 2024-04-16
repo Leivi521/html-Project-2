@@ -1,0 +1,39 @@
+
+.Main {
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: antiquewhite;
+}
+.card {
+display: flex;
+justify-content: center;
+align-items: center; 
+flex-direction: column;
+border: 1px solid black;
+margin: 0;
+}
+
+.card img {
+width: 100%;
+}
+
+.cardtop {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+  h2 {
+ padding-left: 5%;
+}
+h3 {
+    padding-right: 5%;
+}
+h1 {
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+
